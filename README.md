@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahim Ahammed Firoz</h1>
-<h4 align="center">Web Developer | Programmer | IT Enthusiast</h4>
+<h4 align="center">Web Developer | IT Enthusiast</h4>
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
