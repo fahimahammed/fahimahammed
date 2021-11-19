@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
-- 👨‍💻 All of my projects are available at [https://www.fahimahammed.xyz/](https://www.fahimahammed.xyz/)
+- 👨‍💻 All of my projects are available at [https://fahim-firoz.web.app/](https://fahim-firoz.web.app/)
 
 - 📝 I regularly write articles on [https://fahimahammed-cse.medium.com/](https://fahimahammed-cse.medium.com/)
 
