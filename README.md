@@ -33,7 +33,7 @@
 
 <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahammed" alt="fahimahammed"/> </p>
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/fahimahammedfi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimahammedfi1" height="25" width="30" /></a>
 <a href="https://linkedin.com/in/fahimahammedfiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimahammedfiroz" height="25" width="30" /></a>
