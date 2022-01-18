@@ -40,5 +40,5 @@
 <a href="https://fb.com/fahimahammed.firoz.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimahammed.firoz.5" height="25" width="30" /></a>
 <a href="https://instagram.com/fahimahammed.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimahammed.cse" height="25" width="30" /></a>
 </p>
-<p align="center"><img src="https://gpvc.arturio.dev/fahimahammed" alt="fahimahammed"/> </p>
+<!-- <p align="center"><img src="https://gpvc.arturio.dev/fahimahammed" alt="fahimahammed"/> </p> -->
 
