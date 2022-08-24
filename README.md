@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://fahimahammed-cse.medium.com/](https://fahimahammed-cse.medium.com/)
 
-- 💬 Ask me about **JavaScript, Node.js, React.js, C**
+- 💬 Ask me about **JavaScript, Node.js, React.js, C/C++**
 
 - 📫 How to reach me **fahimahammed.cse@gmail.com**
 
