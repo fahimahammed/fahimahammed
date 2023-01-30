@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahim Ahammed Firoz</h1>
 <h4 align="center">Web Developer | IT Enthusiast</h4>
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://fahim-firoz.web.app/](https://fahim-firoz.web.app/)
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, Node.js, React.js, C/C++**
 
-- 📫 How to reach me **fahimahammed.cse@gmail.com**
+- 📫 How to reach me **fahim@programming-hero.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
