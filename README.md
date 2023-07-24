@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">I'm Fahim Ahammed Firoz<br><br>- 🔭 I’m working as Sr. Web Instructor at Programming Hero<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me fahim@programming-hero.com<br>-⚡ Fun fact I think I am funny.</p>
+**I'm Fahim Ahammed Firoz**
+<br>
+- 🔭 I’m working as Sr. Web Instructor at Programming Hero
+- 📚 I'm currently learning GraphQL
+- 📫 How to reach me fahimfiroz.ph@gmail.com
+- ⚡ Fun fact I think I am funny
 
 ###
 
