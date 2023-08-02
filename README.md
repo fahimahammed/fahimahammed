@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 **I'm Fahim Ahammed Firoz**
 <br>
 - 🔭 I’m working as Sr. Web Instructor at Programming Hero
-- 📚 I'm currently learning GraphQL
+- 📚 I'm currently learning GraphQL, Prisma, PostgreSQL
 - 📫 How to reach me fahimfiroz.ph@gmail.com
 - ⚡ Fun fact I think I am funny
 
