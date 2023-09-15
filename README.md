@@ -28,7 +28,7 @@
 
 **I'm Fahim Ahammed Firoz**
 <br>
-- 🔭 I’m working as Sr. Web Instructor at Programming Hero.
+- 🔭 I’m working as L2 Mentor & Sr. Web Instructor at Programming Hero.
 - 📚 I'm currently learning GraphQL, Prisma, PostgreSQL.
 - 📫 How to reach me fahimfiroz.ph@gmail.com
 - ⚡ Fun fact I think I am funny.
