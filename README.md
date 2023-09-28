@@ -26,7 +26,7 @@
 
 ###
 
-**I'm Fahim Ahammed Firoz**
+### I'm Fahim Ahammed Firoz
 <br>
 - 🔭 I’m working as L2 Mentor & Sr. Web Instructor at Programming Hero.
 - 📚 I'm currently learning GraphQL, Prisma, PostgreSQL.
