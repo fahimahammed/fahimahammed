@@ -78,5 +78,12 @@
 ###
 
 <h3 align="left">🏅  Bagdes:</h3>
-[Holopin badges](https://www.holopin.io/@fahimahammed#badges)
+<div align="left">
+  <a href="https://www.holopin.io/userbadge/cln8oiifu152450fmfda3z8iz7" target="_blank">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" height="50" alt="DigitalOcean Smiley"  />
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln74kpmb137550fl8bth4cj2s" target="_blank">
+    <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" height="50" alt="Hacktoberfest 2023: Registered"  />
+  </a>
+</div>
 
