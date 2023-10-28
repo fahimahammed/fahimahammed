@@ -77,19 +77,5 @@
 
 ###
 
-<h3 align="left">🏅  Bagdes: </h3>
-<div align="left">
-  <a href="https://www.holopin.io/userbadge/cln8oiifu152450fmfda3z8iz7" target="_blank">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" height="60" alt="DigitalOcean Smiley"  />
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln74kpmb137550fl8bth4cj2s" target="_blank">
-    <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" height="60" alt="Hacktoberfest 2023: Registered"  />
-  </a>
-  <a href="https://holopin.io/userbadge/clnaptfss211240fl3czo043gx" target="_blank">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="60" alt="ILLA Hacktoberfest 2023 Participation Badge"  />
-  </a>
-  <a href="https://www.holopin.io/userbadge/clnbsixrl11040fmg3vn3ak7d" target="_blank">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="60" alt="ILLA Hacktoberfest 2023 Participation Badge"  />
-  </a>
-</div>
+
 
