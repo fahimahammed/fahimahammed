@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools </h3>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<h3 align="left">🏅  Bagdes:</h3>
+<h3 align="left">🏅  Bagdes: </h3>
 <div align="left">
   <a href="https://www.holopin.io/userbadge/cln8oiifu152450fmfda3z8iz7" target="_blank">
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" height="60" alt="DigitalOcean Smiley"  />
