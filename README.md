@@ -2,7 +2,9 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-##
+
+<h1 align="center">Fahim Ahammed Firoz</h1>
+<h4 align="center">Senior Web Instructor | Mentor (Apollo L2) | Web Developer | IT Enthusiast</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fahimahammedfiroz/" target="_blank">
@@ -18,20 +20,20 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
+- 🔭 I’m working as **Mentor (Apollo L2) & Sr. Web Instructor at Programming Hero.** 
 
-### I'm Fahim Ahammed Firoz
-<br>
-- 🔭 I’m working as L2 Mentor & Sr. Web Instructor at Programming Hero. <br>
-- 📚 I'm currently learning GraphQL, Prisma, PostgreSQL. <br>
-- 📫 How to reach me fahimfiroz.ph@gmail.com <br>
-- ⚡ Fun fact I think I am funny. <br>
+- 🌱 I’m currently learning **Next.js & Prisma**
+
+- 📝 I regularly write articles on [https://dev.to/fahimahammed](https://dev.to/fahimahammed)
+
+- 📫 How to reach me **fahimfiroz.ph@gmail.com**
+
+- ⚡ Fun fact **I think I am funny.**
+
 
 ###
 
@@ -41,24 +43,27 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="33" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="33" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" width="33" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="33" alt="java logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="28" height="33"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="33" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="33" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" width="33" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="33" alt="firebase logo"  />
+  <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="28" width="33" alt="prisma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" width="33" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="33" alt="firebase logo"  />
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="28" height="33"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="28" width="33" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="33" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="33" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="28" width="33" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="33" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="28" height="33"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" width="33" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="33" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="28" width="33" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="33" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="28" width="33" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="33" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" width="33" alt="postgresql logo"  />
+  <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="28" height="33"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="28" height="33"/>
+  
 </div>
 
 ###
@@ -67,7 +72,23 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="160em" alt="stats graph"  />
+
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimahammed&theme=dark" height="163em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahammed&theme=dark" height="163em" />
+
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" height="160em" />
+  
+  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="160em" alt="streak graph"  />
+
+</div>
+
+
+
+
+
+<!-- <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="126" alt="stats graph"  />
@@ -77,5 +98,12 @@
 
 ###
 
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahimahammed&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" height="180em" />
+</div> -->
