@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools </h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">🔥  My Stats </h3>
+<h3 align="left">🔥  My Stats</h3>
 
 ###
 
@@ -81,7 +81,6 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" height="160em" /> 
   <br>
   <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="160em" alt="streak graph"  />
-
 </div>
 
 
