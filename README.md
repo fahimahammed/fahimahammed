@@ -26,7 +26,7 @@
 
 - 🔭 I’m working as **Mentor (Apollo L2) & Sr. Web Instructor at Programming Hero.** 
 
-- 🌱 I’m currently learning **Next.js & Prisma**
+- 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
 
 - 📝 I regularly write articles on [https://dev.to/fahimahammed](https://dev.to/fahimahammed)
 
