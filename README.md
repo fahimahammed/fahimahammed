@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Fahim Ahammed Firoz</h1>
-<h4 align="center">Sr. Web Instructor | Mentor (Apollo L2) | Web Developer | IT Enthusiast</h4>
+<h4 align="center">Mentor (Advance Web Course) | Web Developer | IT Enthusiast</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fahimahammedfiroz/" target="_blank">
