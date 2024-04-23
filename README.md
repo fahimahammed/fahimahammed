@@ -24,7 +24,7 @@
 ###
 
 
-- 🔭 I’m working as **Mentor (Apollo L2) & Sr. Web Instructor at Programming Hero.** 
+- 🔭 I’m working as **Mentor (Apollo L2) at Programming Hero.** 
 
 - 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
 
