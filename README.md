@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2fahimahammed&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 <h1 align="center">Fahim Ahammed Firoz</h1>
-<h4 align="center">Mentor (Advance Web Course) | Web Developer | IT Enthusiast</h4>
+<h4 align="center">Web Developer | IT Enthusiast</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fahimahammedfiroz/" target="_blank">
@@ -18,9 +18,9 @@
 ###
 
 
-- 🔭 I’m working as **Mentor (Apollo L2) at [Programming Hero](https://github.com/programmingHero1/).** 
+- 🔭 I’m working as **Web Developer at [Programming Hero](https://github.com/programmingHero1/).** 
 
-- 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
+- 🌱 I’m currently learning **Next.js, Go, Nuxt**
 
 - 📝 I regularly write articles on [https://dev.to/fahimahammed](https://dev.to/fahimahammed)
 
