@@ -76,6 +76,10 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" />
 
+  <p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=fahimahammed&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 </div>
 
 
