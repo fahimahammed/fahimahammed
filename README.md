@@ -20,7 +20,7 @@
 
 - 🔭 I’m working as **Web Developer at [Programming Hero](https://github.com/programmingHero1/).** 
 
-- 🌱 I’m currently learning **Next.js, Go, Nuxt**
+- 🌱 I’m currently learning **Go, DevOps, System Design**
 
 - 📝 I regularly write articles on [https://dev.to/fahimahammed](https://dev.to/fahimahammed)
 
