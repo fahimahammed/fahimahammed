@@ -1,74 +1,83 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Fahim%20Ahammed%20Firoz&fontSize=60&fontAlignY=35&desc=Web Developer | Mentor | Lifelong Learner&descAlignY=55&descAlign=62&animation=twinkling" width="100%" />
+  
+  <!-- <a href="https://www.fahimahammed.me/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2596BE&center=true&vCenter=true&width=500&lines=Web+Developer+L2+@+Programming+Hero;Full-Stack+Engineer;Tech+Mentor+%26+Enthusiast;System+Architecture+Geek" alt="Typing SVG" />
+  </a> -->
+</div>
 
-
-
-<h1 align="center">👋 Hi, I'm Fahim Ahammed Firoz</h1>
-<h3 align="center">Web Developer | IT Enthusiast | Lifelong Learner</h3>
+<h3 align="center"><i>"Coding isn't just logic - it's an art of connecting systems, people, and ideas."</i></h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fahimahammedfiroz/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  <a href="https://www.fahimahammed.me/" target="_blank"><img src="https://img.shields.io/badge/Website-2596BE?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/fahimahammedfiroz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <!-- <a href="https://twitter.com/fahimahammedfi1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> -->
+  <a href="mailto:fahimfiroz.ph@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+
+**Just open your terminal and type:**
+```bash
+  npx hello-fahim
+```
+
+</div>
+
+---
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>Passionate Full-Stack Developer with 4+ years of experience transforming ideas into scalable, high-performance digital products. I specialize in backend systems, modern web architectures, and mentoring aspiring engineers.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Focus</h3>
+      <p>🔹 <b>Full-Stack:</b> End-to-end app development.<br/>
+      🔹 <b>System Design:</b> Reliable & secure backends.<br/>
+      🔹 <b>Mentorship:</b> Guiding the next tech generation.<br/>
+      🔹 <b>DevOps:</b> CI/CD, AWS, and Cloud integrations.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🛠️ Technical Arsenal</h3>
+
+<div align="center">
+  <p><b>Languages & Frontend</b></p>
+  <a href="https://www.fahimahammed.me/">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
   </a>
-  <a href="https://www.facebook.com/fahimahammedfiroz1/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"/>
+  
+  <br/><br/>
+  <p><b>Backend & Databases</b></p>
+  <a href="https://www.fahimahammed.me/">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,redis,graphql,python" />
   </a>
-  <a href="https://twitter.com/fahimahammedfi1" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="28"/>
+
+  <br/><br/>
+  <p><b>DevOps & Tools</b></p>
+  <a href="https://www.fahimahammed.me/">
+    <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,postman,vscode,nginx,linux" />
   </a>
 </div>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working as **Web Developer** at [Programming Hero](https://github.com/programmingHero1)
-- 🌱 Passionate about **Go**, **DevOps**, and **System Design** — always learning and growing!
-- ✍️ I regularly share articles and tutorials on [Dev.to](https://dev.to/fahimahammed)
-- 📫 Reach me at: **fahimfiroz.ph@gmail.com**
-- ⚡ Fun fact: I like to think I’m pretty funny 😄
-
----
-
-### 🛠 Tech Stack & Tools
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/prisma/prisma-logo/main/prisma-logo-wordmark.svg" alt="Prisma" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="30" height="30" />
-  <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="Matlab" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="30" height="30" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&show_icons=true&hide_border=true&theme=react&bg_color=1F222E&title_color=2596BE&icon_color=2596BE" alt="GitHub Stats" width="48%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahammed&hide_border=true&theme=react&background=1F222E&ring=2596BE&fire=2596BE&currStreakNum=ffffff" alt="GitHub Streak" width="48%" /> -->
 </div>
 
----
-
-### 📊 GitHub Stats
+<br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimahammed&theme=dark" alt="Most Commit Language" height="160" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahammed&theme=dark" alt="Repos per Language" height="160" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahammed&theme=dark" alt="Profile Details" height="160" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" />
 </div>
-
----
-
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House
-</p>
