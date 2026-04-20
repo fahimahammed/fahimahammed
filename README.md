@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Fahim%20Ahammed%20Firoz&fontSize=60&fontAlignY=35&desc=Web Developer | Mentor | Lifelong Learner&descAlignY=55&descAlign=62&animation=twinkling" width="100%" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Fahim%20Ahammed%20Firoz&fontSize=60&fontAlignY=35&desc=Web Developer | Mentor | Lifelong Learner&descAlignY=55&descAlign=62&animation=twinkling" width="100%" /> -->
   
   <!-- <a href="https://www.fahimahammed.me/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2596BE&center=true&vCenter=true&width=500&lines=Web+Developer+L2+@+Programming+Hero;Full-Stack+Engineer;Tech+Mentor+%26+Enthusiast;System+Architecture+Geek" alt="Typing SVG" />
   </a> -->
+  <h1>Fahim Ahammed Firoz</h1>
+  <h3>Web Developer | Mentor | Tech Enthusiast</h3>
 </div>
 
 <h3 align="center"><i>"Coding isn't just logic - it's an art of connecting systems, people, and ideas."</i></h3>
